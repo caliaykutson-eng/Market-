@@ -1,0 +1,3 @@
+node_modules
+# Results of an interrupted run, used to resume it
+customCoinData.partial.json
